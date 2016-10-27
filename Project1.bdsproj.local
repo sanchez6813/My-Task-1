@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016.10.28 01:37:15.024.cpp,C:\Users\Alex\Documents\Borland Studio Projects\Unit1.cpp=C:\Индивид\Unit1.cpp</Transaction>
+    <Transaction>2016.10.28 01:37:15.024.h,C:\Users\Alex\Documents\Borland Studio Projects\Unit1.h=C:\Индивид\Unit1.h</Transaction>
+    <Transaction>2016.10.28 01:37:15.024.dfm,C:\Users\Alex\Documents\Borland Studio Projects\Unit1.dfm=C:\Индивид\Unit1.dfm</Transaction>
+    <Transaction>2016.10.28 01:37:20.064.bdsproj,C:\Users\Alex\Documents\Borland Studio Projects\Project1.bdsproj=C:\Индивид\Project1.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>
